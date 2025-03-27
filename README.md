@@ -40,9 +40,9 @@
 
 ## 📂 Repository Breakdown
 
-🔹 `Writeups/` → My solutions & explanations for labs, challenges, and real-world exercises.  
-🔹 `Scripts/` → Any **custom scripts** I develop for testing or automation.  
 🔹 `DailyLogs/` → My **day-by-day progress**, with notes and reflections.  
+🔹 `Writeups/` → My solutions & explanations for labs, challenges, and real-world exercises.  
+🔹 `Screenshots/` → Screenshots taken daily explaining errors, wins, etc.  
 🔹 `Resources/` → Recommended courses, books, and learning materials.  
 🔹 `Reports/` → **Professional-style penetration testing reports**.
 
