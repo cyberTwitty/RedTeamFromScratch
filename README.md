@@ -24,7 +24,8 @@
 | [Day 2](40DaysOfPentesting/DailyLogs/02-target-enumeration.md)    | Target Enumeration                                       | Used Gobuster & Burp Suite to discover directories and intercept requests                                                         |
 | [Day 3](40DaysOfPentesting/DailyLogs/03-input-testing.md)         | Input Testing & Starting to dabble with BurpSuite        | Controlled recon using Gobuster and accessed Metasploitable2's DVWA interface                                                     |
 | [Day 4](40DaysOfPentesting/DailyLogs/04-burp-repeater-and-THM.md) | Cleaning up of this repo, THM SOC Room, Job applications | Tidied up GitHub repo, launched DVWA SQLi testing in Burp Suite, balanced hands-on hacking with SOC fundamentals and job hunting. |
-| [Day 5](40DaysOfPentesting/DailyLogs/05-break-more-things.md)     | Deeper dive into SQL Injection and Burp Rpeater          | _Coming Soon_                                                                                                                     |
+| [Day 5](40DaysOfPentesting/DailyLogs/05-break-more-things.md)     | Deeper dive into SQL Injection and Burp Rpeater          |Troubleshooting Burp Suite & DVWA Behavior, tracking inconsistencies in security levels, and launching the hunt for where DVWA is *actually* hosted.                                                                            |
+| [Day 6](40DaysOfPentesting/DailyLogs/06-hunt-for-the-real-host.md)     | Still chasing DVWA across a virutal spaghetti mess          | _Coming Soon_                                                                                                                     |
 
 > 🔄 Updates daily. Each entry includes goals, commands used, error notes, and personal takeaways.
 
