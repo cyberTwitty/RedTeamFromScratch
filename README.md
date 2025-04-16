@@ -25,7 +25,9 @@
 | [Day 3](40DaysOfPentesting/DailyLogs/03-input-testing.md)         | Input Testing & Starting to dabble with BurpSuite        | Controlled recon using Gobuster and accessed Metasploitable2's DVWA interface                                                     |
 | [Day 4](40DaysOfPentesting/DailyLogs/04-burp-repeater-and-THM.md) | Cleaning up of this repo, THM SOC Room, Job applications | Tidied up GitHub repo, launched DVWA SQLi testing in Burp Suite, balanced hands-on hacking with SOC fundamentals and job hunting. |
 | [Day 5](40DaysOfPentesting/DailyLogs/05-break-more-things.md)     | Deeper dive into SQL Injection and Burp Rpeater          |Troubleshooting Burp Suite & DVWA Behavior, tracking inconsistencies in security levels, and launching the hunt for where DVWA is *actually* hosted.                                                                            |
-| [Day 6](40DaysOfPentesting/DailyLogs/06-hunt-for-the-real-host.md)     | Still chasing DVWA across a virutal spaghetti mess          | _Coming Soon_                                                                                                                     |
+| [Day 6](40DaysOfPentesting/DailyLogs/06-hunt-for-the-real-host.md)     | Still chasing DVWA across a virutal spaghetti mess          | Traced DVWA’s environment, wrangled IP confusion, rebuilt trust between Burp Suite and DVWA, and nailed a SQLi UNION exploit.                                                                                                                     |
+| [Day 7](40DaysOfPentesting/DailyLogs/07-web-recon-basics.md)     | Fuzzing & Web Footprinting         | Compared Gobuster and FFUF results, explored weird endpoints like `/twiki`, and launched a long-haul brute-force attack using `rockyou.txt`.                                                                                                                     |
+| [Day 8]()     | *Coming Soon*             | *Coming Soon*                                                                                                                     |
 
 > 🔄 Updates daily. Each entry includes goals, commands used, error notes, and personal takeaways.
 
@@ -43,10 +45,8 @@
 ## 📂 Repository Breakdown
 
 🔹 `DailyLogs/` → My **day-by-day progress**, with notes and reflections.  
-🔹 `Writeups/` → My solutions & explanations for labs, challenges, and real-world exercises.  
 🔹 `Screenshots/` → Screenshots taken daily explaining errors, wins, etc.  
 🔹 `Resources/` → Recommended courses, books, and learning materials.  
-🔹 `Reports/` → **Professional-style penetration testing reports**.
 
 ---
 
