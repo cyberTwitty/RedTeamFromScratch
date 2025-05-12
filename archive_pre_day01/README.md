@@ -1,3 +1,5 @@
+> The following is the original layout I used during early learning. I have since refactored to reflect more of a real-world operator workflow.
+
 # 🔥 40 Days of Pentesting: My Journey into Cybersecurity
 
 🚀 Welcome to my 40-day challenge! I'm diving deep into offensive security, sharpening my skills in penetration testing, and documenting every step here. This repo is my **live portfolio**, tracking everything from **network hacking** to **web application pentesting**, **scripting**, and more.
